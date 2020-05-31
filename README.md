@@ -6,6 +6,7 @@
 ## スライド
 
 ![最近のアプデの話をしよう](https://docs.google.com/presentation/d/1ouLvrtngVI4ykKftBCYozVS-Nr6FZj54LgCqYsKOx3Y/edit?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAprJLKw6QDTzFXz5UDPBBtwkFwEWJrPjW30dBurVuyebcue2JaYuPQ8cc9UPavWLBrEdquU9h97AP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## File
 
